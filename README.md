@@ -63,3 +63,8 @@ sudo bash /tmp/tatfeed.sh
 ```
 
 - Check feed status at https://theairtraffic.com/feed/myip/
+
+
+
+#### Access data
+- data can be retrived from ```http://(ip of device)/tar1090/data/aircraft.json```
